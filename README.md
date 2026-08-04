@@ -32,19 +32,6 @@ For each problem, I aim to:
 * Optimize time and space complexity where possible
 * Add comments explaining the logic
 
-## Sample Problems
-
-| File Name            | Description                                   |
-| -------------------- | --------------------------------------------- |
-| day1.py              | Python basics challenge |
-
-
-## How to Use
-
-1. Navigate through topic-based folders
-2. Open any Python file
-3. Review the implementation and comments
-
 ## Learning Objectives
 
 * Strengthen algorithmic thinking
